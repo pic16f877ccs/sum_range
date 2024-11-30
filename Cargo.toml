@@ -1,0 +1,16 @@
+[package]
+name = "sum_range"
+version = "0.1.0"
+edition = "2021"
+authors = ["Karl Wulfert <pic16f877.ccs@emailn.de>"]
+readme = "README.md"
+repository = "https://github.com/pic16f877ccs/sum_range"
+homepage = "https://github.com/pic16f877ccs/sum_range"
+license = "MIT"
+keywords = ["sum", "range", "consecutive", "numbers", "even", "odd"]
+categories = ["algorithms", "mathematics"]
+description = "The sum of all consecutive numbers, both even and odd."
+
+[dependencies]
+num = "0.4.3"
+num_convert = "0.7.2"
