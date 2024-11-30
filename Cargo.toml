@@ -7,7 +7,7 @@ readme = "README.md"
 repository = "https://github.com/pic16f877ccs/sum_range"
 homepage = "https://github.com/pic16f877ccs/sum_range"
 license = "MIT"
-keywords = ["sum", "range", "consecutive", "numbers", "even", "odd"]
+keywords = ["sum", "range", "numbers", "even", "odd"]
 categories = ["algorithms", "mathematics"]
 description = "The sum of all consecutive numbers, both even and odd."
 
